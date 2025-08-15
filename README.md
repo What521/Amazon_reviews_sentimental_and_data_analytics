@@ -4,7 +4,7 @@ This project analyzes Amazon appliance product data and customer reviews to unco
 
 ## Original data
 
-The original data is from : https://amazon-reviews-2023.github.io/
+The original data is from the appliances category in: https://amazon-reviews-2023.github.io/
 
 ## Overview
 The workflow includes:
