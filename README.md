@@ -2,6 +2,10 @@
 
 This project analyzes Amazon appliance product data and customer reviews to uncover trends, top products, and sentiment patterns.
 
+## Original data
+
+The original data is from : https://amazon-reviews-2023.github.io/
+
 ## Overview
 The workflow includes:
 1. **Data Preparation** – Splitting and converting raw JSON files in Jupyter Notebook.
